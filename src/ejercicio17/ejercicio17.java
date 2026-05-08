@@ -1,12 +1,4 @@
-/*Pedile al usuario que ingrese 5 notas enteras. Guardálas en un array. Creá las siguientes
-funciones:
-• ingresoDatos()→ Permitir el ingreso de datos, y validar que se ingresen números
-mayores a 0.
-• calcularPromedio(int[] notas) → devuelve double.
-• buscarMayor(int[] notas) → devuelve int.
-• buscarMenor(int[] notas) → devuelve int.
-• Otra función que muestre promedio, nota mayor y nota menor por
-pantalla.*/
+
 package ejercicio17;
 
 import java.util.Scanner;

@@ -21,7 +21,8 @@ public class ejercicio19 {
         for (int i = 0; i < tablero.length; i++) {
             for (int j = 0; j < tablero[i].length; j++) {
 
-                // Posiciones que deben mostrar *
+                // Posiciones que deben mostrar
+            	
                 if ((i == 0 && j == 2) || 
                     (i == 2 && j == 0) || 
                     (i == 1 && j == 2)) {
